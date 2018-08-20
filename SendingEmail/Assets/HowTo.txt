@@ -1,0 +1,11 @@
+How to send an E-mail
+=====================
+
+In the Hierachy you will find a GameObject called "EmailManager" under the "Utils" GameObject.
+
+In the inspector of the "EmailManager" GameObject fill in the fields under the "E-Mail" header.
+These fields include:
+	The email address you want to send the E-mail from and the password for that E-mail address.
+	The email address you want to send the E-mail to.
+	The file path of the attachment you wish to include, for example "C:\Users\USE\Desktop\attachmentFile.png"
+	The mail client to use to send the E-mail, Gmail and Hotmail are already set up and ready to be used.
