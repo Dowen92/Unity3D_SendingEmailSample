@@ -1,2 +1,4 @@
 # Unity3D_SendingEmailSample
-Sample project of sending E-mail from Unity 3D
+This is a sample project of sending an E-mail from Unity 3D.
+
+This repository goes with the blog post that can be found here https://dowen92dev.wordpress.com/2018/08/11/sending-e-mail-in-unity-3d/
